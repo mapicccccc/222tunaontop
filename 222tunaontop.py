@@ -4,7 +4,7 @@ from discord.ext import commands
 import random
 import time
 
-BOT_TOKEN = "MTUwMzIxMjIzMTg5MjkzMDYzMA.GUMT-z.j7E33C7AqkeBsceQ5s4eCiBQxsqfjCSv9ALYck"
+BOT_TOKEN = "MTUwMzIxMjIzMTg5MjkzMDYzMA.Gxsp2m.q19F5ZuQYbqSy_Wfx5Qj4rt3Ze_4rnEXMsrMqk"
 PREFIX = "?"
 
 CHANNEL_NAME = "NUKER BY 222TUNAONTOP"
@@ -13,7 +13,7 @@ AMOUNT_OF_CHANNELS = 150
 AMOUNT_OF_MESSAGES = 50000
 
 RANDOM_CHANNEL_NAMES = [
-    "NUKER BY 222TUNA✓",
+    "NUKER BY 222TUNA",
     "NUKER BY 222TUNA",
     "NUKER BY TUNA",
     "222TUNA ON TOP",
